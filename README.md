@@ -1,3 +1,7 @@
-https://gobyexample.com/for
-https://gobyexample.com/variadic-functions
-https://gobyexample.com/methods
+# Go Study
+
+---
+
+### Next
+
+- https://gobyexample.com/worker-pools
