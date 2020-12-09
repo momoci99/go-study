@@ -4,7 +4,7 @@
 
 ### Next
 
-- https://gobyexample.com/worker-pools
+- https://gobyexample.com/rate-limiting
 
 ### Etc
 
